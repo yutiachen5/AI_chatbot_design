@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# 48-hour case-study - AI chatbot design for [PartSelect] (https://www.partselect.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
