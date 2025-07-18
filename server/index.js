@@ -1,5 +1,5 @@
 require('dotenv').config({ path: __dirname + '/../.env' });
-console.log("🔍 ENV API KEY:", process.env.DEEPSEEK_API_KEY);
+//console.log("🔍 ENV API KEY:", process.env.DEEPSEEK_API_KEY);
 
 const express = require('express');
 const cors = require('cors');
