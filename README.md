@@ -1,5 +1,6 @@
-# 48-hour case-study - AI chatbot design for [PartSelect] (https://www.partselect.com/)
+## 48-hour case-study - AI chatbot design for PartSelect (https://www.partselect.com/)
 
+template retrieved from InstaLily.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
